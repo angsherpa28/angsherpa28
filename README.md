@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @angsherpa28
-- 👀 I’m interested in Java,HTML,CSS, Database, Cloud
+- 👀 I’m interested in Java,HTML,CSS, Database,SQL, Cloud
 - 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on Software Testing
+
 - 📫 How to reach me angsherpa022@gmail.com
 
 <!---
